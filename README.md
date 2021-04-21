@@ -1,2 +1,2 @@
 # cloudcomputingpackage
-this is a covid tracker.
+this is a covid 19 tracker.
